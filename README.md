@@ -1,1 +1,1 @@
-# Basics_of_ML 
+# Basics_of_MachineLearning
